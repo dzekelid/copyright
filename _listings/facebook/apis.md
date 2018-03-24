@@ -36,7 +36,7 @@ apis:
   tags: Copyright
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copyright/master/_listings/facebook/video-copyright-id-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/copyright/master/_listings/facebook/video-copyright-id-delete.md
 x-common:
 - type: x-android-sdk
   url: https://developers.facebook.com/docs/android/share
